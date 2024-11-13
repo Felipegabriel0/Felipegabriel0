@@ -1,13 +1,15 @@
-## Boas vindas ao meu perfil :neckbeard:
+### Boas vindas ao meu perfil :neckbeard:
 
-meu nome e Felipe gabriel
+Meu nome é Felipe Gabriel
 
--estou estudando no alura 
-estou desenvolvendo no JavaScript
-Utilizo esse espaço para organização e conpartilhamento dos meus projetos desenvolvidos
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-** Voce entrar em contato comigo 📫
+### Você pode entrar em contato comigo :mailbox
 
 00001110087585SP@al.educacao.sp.gov.br
 
 @felipe_gadriel
+
+![](https://media1.tenor.com/m/M2vJtLchSAMAAAAd/vegeta.gif)
